@@ -1,0 +1,7 @@
+interface:
+  display_name: "段落与术语研读解释"
+  short_description: "持续解释段落逻辑、专业术语及理解所需的关键背景知识"
+  default_prompt: "使用 $reading-explainer 进入持续研读解释模式，解释我随后发送的段落、术语和追问。"
+
+policy:
+  allow_implicit_invocation: false
